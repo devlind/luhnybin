@@ -5,8 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 
-import com.squareup.crazybin.Masker;
-
 public class Main {
 
 	public static void main(String[] args) {
